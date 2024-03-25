@@ -9,11 +9,11 @@ The owner of Madhav store want us to help them create a dashboard to track and a
 
 
 ## Dataset Description:
-The Dataset contains information on various category and sub-category and their details.
-File Type: CSV
-The variables in the datasets are:
-Table1: Orders.csv order ID , Amount, Profit, Quantity, Category, Sub-Category, Payment-mode
-Table2: Oredrs.csv order Id, Order Date, Customer Name, City , State
+* The Dataset contains information on various category and sub-category and their details.
+* File Type: CSV
+* The variables in the datasets are:
+* Table1: Orders.csv order ID , Amount, Profit, Quantity, Category, Sub-Category, Payment-mode
+* Table2: Oredrs.csv order Id, Order Date, Customer Name, City , State
 
 
 ## Insights :
